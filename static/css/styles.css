@@ -215,6 +215,10 @@ a {
   text-decoration: none;
 }
 
+article a {
+  color: #bd5d38;
+}
+
 .image, figure img, img {
   width: 100%;
   box-shadow: 0 3px 3px #bbbbbb;
